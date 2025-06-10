@@ -1,0 +1,38 @@
+,Total Sales,, Quantity,,Top Region,,Profit,,
+,"2,297,200.87",,"9,994.00",,West Region	,,"286,397.02",,
+,,,,,,,,,
+,,,,,,,,,
+Region,SUM of Sales,,,,,,,,
+West,725457.8245,,,,,,,,
+South,391721.905,,,,,,,,
+East,678781.24,,,,,,,,
+Central,501239.8908,,,,,,,,
+Grand Total,2297200.86,,,,,,,,
+,,,,,,,,,
+,,,,,Category,SUM of Sales,,Region,COUNTA of Customer ID
+,,,,,Technology,836154.033,,Central,2323
+,,,,,Office Supplies,719047.032,,East,2848
+,,,,,Furniture,741999.7953,,South,1620
+,,,,,Grand Total,2297200.86,,West,3203
+,,,,,,,,Grand Total,9994
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,Segment,SUM of Sales
+,Month,SUM of Sales,,,,,,Consumer,1161401.345
+,April ,137759.1766,,,,,,Corporate,706146.3668
+,August ,163158.421,,,,,,Home Office,429653.1485
+,December ,326403.8195,,,,,,Grand Total,2297200.86
+,February ,61510.5974,,,,,,,
+,January ,95523.1696,,,,,,,
+,July ,149863.163,,,,,,,
+,June ,146612.8073,,,,,,,
+,March ,199950.0532,,,,,,,
+,May ,157955.4897,,,,,,,
+,November ,353919.303,,,,,,,
+,October ,201129.1143,,,,,,,
+,September ,303415.7457,,,,,,,
+,Grand Total,2297200.86,,,,,,,

@@ -1,0 +1,29 @@
+,
+Vlookup For Finding the Product From Customer Name,
+,
+Customer name,Product Name
+9,DXL Angle-View Binders with Locking Rings by Samsill
+6,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood"
+777,"Dixon My First Ticonderoga Pencil, #2"
+33,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Executive Red"
+764,Staple envelope
+777,"Dixon My First Ticonderoga Pencil, #2"
+,
+Xlookup For Finding Customer Name and Product by OrderID,
+,
+Order ID,Customer Name
+CA-2014-115812,Brosina Hoffman
+US-2015-108966,Sean O'Donnell
+CA-2016-161389,Irene Maddox
+,#N/A
+,
+,
+Using Index & match Find Product Name by OrderID,
+,
+Order ID,Product Name
+CA-2014-115812,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood"
+US-2015-108966,Bretford CR4500 Series Slim Rectangular Table
+CA-2014-143336,Newell 341
+,#N/A
+,#N/A
+,#N/A

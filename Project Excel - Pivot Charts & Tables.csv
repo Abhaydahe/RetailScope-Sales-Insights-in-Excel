@@ -1,0 +1,49 @@
+SUM of Sales,Segment,,,,,,,
+Region,Consumer,Corporate,Home Office,Grand Total,,,,
+West,362880.773,225855.2745,136721.777,725457.8245,,,,
+South,195580.971,121885.9325,74255.0015,391721.905,,,,
+East,350908.167,200409.347,127463.726,678781.24,,,,
+Central,252031.434,157995.8128,91212.644,501239.8908,,,,
+Grand Total,1161401.345,706146.3668,429653.1485,2297200.86,,,,
+,,,,,,,,
+,,,,,,,,
+Month,COUNT of Quantity,,Category,SUM of Sales,,,,
+September ,1374,,Furniture,741999.7953,,,,
+October ,825,,Office Supplies,719047.032,,,,
+November ,1474,,Technology,836154.033,,,,
+May ,753,,Grand Total,2297200.86,,,,
+March ,700,,,,,,,
+June ,703,,,,,,,
+July ,709,,,,,,,
+January ,375,,,,,,,
+February ,306,,,,,,,
+December ,1402,,,,,,,
+August ,709,,,,,,,
+April ,664,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,Region,COUNTA of Order ID,,,,
+,,,Central,2323,,,,
+,,,East,2848,,,,
+,,,South,1620,,,,
+,,,West,3203,,,,
+,,,Grand Total,9994,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,Month,SUM of Sales
+,,,,,,,April ,137759.1766
+,,,,,,,August ,163158.421
+,,,,,,,December ,326403.8195
+,,,,,,,February ,61510.5974
+,,,,,,,January ,95523.1696
+,,,,,,,July ,149863.163
+,,,,,,,June ,146612.8073
+,,,,,,,March ,199950.0532
+,,,,,,,May ,157955.4897
+,,,,,,,November ,353919.303
+,,,,,,,October ,201129.1143
+,,,,,,,September ,303415.7457
+,,,,,,,Grand Total,2297200.86
